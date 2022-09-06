@@ -1,6 +1,6 @@
 # Demo
 My name is Alex Rodriguez
-Future Repo Items:
+and my Future Repo Items are:
 Data analysis project – Excel & Minitab (MG220)
 Data preparation and visualization project – Tableau Prep and Tableau (MG226)
 Database management tasks using SQL –Jupyter notebook (CS260, MI462)
