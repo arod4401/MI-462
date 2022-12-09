@@ -11,3 +11,4 @@ Machine Learning/AI project notebook (MI462)
 Professional online presence: LinkedIn and GitHub (MI462)
 Personal AI/Data ethics statement (MI462)
 Portfolio compilation and presentation (MI462)
+LinkedIn www.linkedin.com/in/alexrodriguez2001
